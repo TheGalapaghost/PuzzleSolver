@@ -1,0 +1,834 @@
+Plant Name: baby rose
+Spoonerism: raby bose
+
+Plant Name: bank cress
+Spoonerism: crank bess
+
+Plant Name: bastard pellitory
+Spoonerism: pastard bellitory
+
+Plant Name: bay laurel
+Spoonerism: lay baurel
+
+Plant Name: bear corn
+Spoonerism: cear born
+
+Plant Name: bermuda cress
+Spoonerism: crermuda bess
+
+Plant Name: betula lenta
+Spoonerism: letula benta
+
+Plant Name: big hellebore
+Spoonerism: hig bellebore
+
+Plant Name: birds nest
+Spoonerism: nirds best
+
+Plant Name: bitter nightshade
+Spoonerism: nitter bightshade
+
+Plant Name: bitter weed
+Spoonerism: witter beed
+
+Plant Name: black cap
+Spoonerism: cack blap
+
+Plant Name: black cherry
+Spoonerism: chack blerry
+
+Plant Name: black hellebore
+Spoonerism: hack blellebore
+
+Plant Name: black maple
+Spoonerism: mack blaple
+
+Plant Name: black nightshade
+Spoonerism: nack blightshade
+
+Plant Name: black raspberry
+Spoonerism: rack blaspberry
+
+Plant Name: black weed
+Spoonerism: wack bleed
+
+Plant Name: blackhaw viburnum
+Spoonerism: vackhaw bliburnum
+
+Plant Name: blackie head
+Spoonerism: hackie blead
+
+Plant Name: blueberry cornel
+Spoonerism: cueberry blornel
+
+Plant Name: bow wood
+Spoonerism: wow bood
+
+Plant Name: brilliant coneflower
+Spoonerism: cilliant broneflower
+
+Plant Name: bristly dewberry
+Spoonerism: distly brewberry
+
+Plant Name: broadleaf plantain
+Spoonerism: ploadleaf brantain
+
+Plant Name: brown daisy
+Spoonerism: down braisy
+
+Plant Name: buffalo weed
+Spoonerism: wuffalo beed
+
+Plant Name: bulbous cress
+Spoonerism: crulbous bess
+
+Plant Name: bull nettle
+Spoonerism: null bettle
+
+Plant Name: butterfly flower
+Spoonerism: flutterfly bower
+
+Plant Name: butterfly weed
+Spoonerism: wutterfly beed
+
+Plant Name: california bay
+Spoonerism: balifornia cay
+
+Plant Name: california buckeye
+Spoonerism: balifornia cuckeye
+
+Plant Name: california sycamore
+Spoonerism: sycalifornia camore
+
+Plant Name: california thistle
+Spoonerism: thalifornia cistle
+
+Plant Name: california walnut
+Spoonerism: walifornia calnut
+
+Plant Name: canada root
+Spoonerism: ranada coot
+
+Plant Name: canada thistle
+Spoonerism: thanada cistle
+
+Plant Name: cancer jalap
+Spoonerism: jancer calap
+
+Plant Name: canoe birch
+Spoonerism: banoe circh
+
+Plant Name: carrot weed
+Spoonerism: warrot ceed
+
+Plant Name: cherry birch
+Spoonerism: berry chirch
+
+Plant Name: chigger flower
+Spoonerism: fligger chower
+
+Plant Name: christmas fern
+Spoonerism: fistmas chrern
+
+Plant Name: climbing nightshade
+Spoonerism: nimbing clightshade
+
+Plant Name: coast polypody
+Spoonerism: poast colypody
+
+Plant Name: coffee plant
+Spoonerism: ploffee cant
+
+Plant Name: colic weed
+Spoonerism: wolic ceed
+
+Plant Name: common daisy
+Spoonerism: dommon caisy
+
+Plant Name: common fig
+Spoonerism: fommon cig
+
+Plant Name: common milkweed
+Spoonerism: mommon cilkweed
+
+Plant Name: common plantain
+Spoonerism: plommon cantain
+
+Plant Name: common ragweed
+Spoonerism: rommon cagweed
+
+Plant Name: common ragwort
+Spoonerism: rommon cagwort
+
+Plant Name: common serviceberry
+Spoonerism: sommon cerviceberry
+
+Plant Name: common tansy
+Spoonerism: tommon cansy
+
+Plant Name: common yarrow
+Spoonerism: yommon carrow
+
+Plant Name: corn speedwell
+Spoonerism: sporn ceedwell
+
+Plant Name: corn thistle
+Spoonerism: thorn cistle
+
+Plant Name: cornelian tree
+Spoonerism: trornelian cee
+
+Plant Name: cotton plant
+Spoonerism: plotton cant
+
+Plant Name: coyote willow
+Spoonerism: woyote cillow
+
+Plant Name: creek maple
+Spoonerism: meek craple
+
+Plant Name: creeping thistle
+Spoonerism: theeping cristle
+
+Plant Name: crows nest
+Spoonerism: nows crest
+
+Plant Name: crows toes
+Spoonerism: tows croes
+
+Plant Name: cursed thistle
+Spoonerism: thursed cistle
+
+Plant Name: cutleaf maple
+Spoonerism: mutleaf caple
+
+Plant Name: cutleaf toothwort
+Spoonerism: tutleaf coothwort
+
+Plant Name: damask violet
+Spoonerism: vamask diolet
+
+Plant Name: dames rocket
+Spoonerism: rames docket
+
+Plant Name: dames violet
+Spoonerism: vames diolet
+
+Plant Name: deadly nightshade
+Spoonerism: neadly dightshade
+
+Plant Name: deciduous holly
+Spoonerism: heciduous dolly
+
+Plant Name: devils bite
+Spoonerism: bevils dite
+
+Plant Name: devils nose
+Spoonerism: nevils dose
+
+Plant Name: devils plague
+Spoonerism: plevils dague
+
+Plant Name: dogtooth violet
+Spoonerism: vogtooth diolet
+
+Plant Name: dooryard plantain
+Spoonerism: plooryard dantain
+
+Plant Name: downy serviceberry
+Spoonerism: sowny derviceberry
+
+Plant Name: duck retten
+Spoonerism: ruck detten
+
+Plant Name: dye leaves
+Spoonerism: le dyeaves
+
+Plant Name: false box
+Spoonerism: balse fox
+
+Plant Name: false boxwood
+Spoonerism: balse foxwood
+
+Plant Name: false hellebore
+Spoonerism: halse fellebore
+
+Plant Name: fever bush
+Spoonerism: bever fush
+
+Plant Name: florida dogwood
+Spoonerism: dorida flogwood
+
+Plant Name: flowering dogwood
+Spoonerism: dowering flogwood
+
+Plant Name: garden nightshade
+Spoonerism: narden gightshade
+
+Plant Name: garlic mustard
+Spoonerism: marlic gustard
+
+Plant Name: garlic root
+Spoonerism: rarlic goot
+
+Plant Name: gewa bangladesh
+Spoonerism: bewa gangladesh
+
+Plant Name: giant ragweed
+Spoonerism: riant gagweed
+
+Plant Name: gilli flower
+Spoonerism: flilli gower
+
+Plant Name: gloriosa daisy
+Spoonerism: doriosa glaisy
+
+Plant Name: golden buttons
+Spoonerism: bolden guttons
+
+Plant Name: golden corydalis
+Spoonerism: colden gorydalis
+
+Plant Name: golden jerusalem
+Spoonerism: jolden gerusalem
+
+Plant Name: goodding willow
+Spoonerism: woodding gillow
+
+Plant Name: goose tongue
+Spoonerism: toose gongue
+
+Plant Name: gray birch
+Spoonerism: bay grirch
+
+Plant Name: great ragweed
+Spoonerism: reat gragweed
+
+Plant Name: greater plantain
+Spoonerism: pleater grantain
+
+Plant Name: green thistle
+Spoonerism: theen gristle
+
+Plant Name: ground berry
+Spoonerism: bound grerry
+
+Plant Name: hairy bittercress
+Spoonerism: bairy hittercress
+
+Plant Name: hard thistle
+Spoonerism: thard histle
+
+Plant Name: hares colwort
+Spoonerism: cares holwort
+
+Plant Name: hares thistle
+Spoonerism: thares histle
+
+Plant Name: healing blade
+Spoonerism: blealing hade
+
+Plant Name: hedge plant
+Spoonerism: pledge hant
+
+Plant Name: hemp dogbane
+Spoonerism: demp hogbane
+
+Plant Name: hen plant
+Spoonerism: plen hant
+
+Plant Name: henbit deadnettle
+Spoonerism: denbit headnettle
+
+Plant Name: herb barbara
+Spoonerism: berb harbara
+
+Plant Name: hoary ragwort
+Spoonerism: roary hagwort
+
+Plant Name: honey mesquite
+Spoonerism: money hesquite
+
+Plant Name: horse cane
+Spoonerism: corse hane
+
+Plant Name: horse nettle
+Spoonerism: norse hettle
+
+Plant Name: horsetail milkweed
+Spoonerism: morsetail hilkweed
+
+Plant Name: hounds berry
+Spoonerism: bounds herry
+
+Plant Name: judas tree
+Spoonerism: trudas jee
+
+Plant Name: kousa dogwood
+Spoonerism: dousa kogwood
+
+Plant Name: lace flower
+Spoonerism: flace lower
+
+Plant Name: lambs cress
+Spoonerism: crambs less
+
+Plant Name: lambs foot
+Spoonerism: fambs loot
+
+Plant Name: land cress
+Spoonerism: crand less
+
+Plant Name: leatherleaf viburnum
+Spoonerism: veatherleaf liburnum
+
+Plant Name: love vine
+Spoonerism: vove line
+
+Plant Name: low rose
+Spoonerism: row lose
+
+Plant Name: mahogany birch
+Spoonerism: bahogany mirch
+
+Plant Name: marsh ragwort
+Spoonerism: rarsh magwort
+
+Plant Name: meadow cabbage
+Spoonerism: ceadow mabbage
+
+Plant Name: meadow holly
+Spoonerism: headow molly
+
+Plant Name: milk thistle
+Spoonerism: thilk mistle
+
+Plant Name: milky tassel
+Spoonerism: tilky massel
+
+Plant Name: mosquito fern
+Spoonerism: fosquito mern
+
+Plant Name: mosquito plant
+Spoonerism: plosquito mant
+
+Plant Name: multiflora rose
+Spoonerism: rultiflora mose
+
+Plant Name: nodding thistle
+Spoonerism: thodding nistle
+
+Plant Name: pacific dogwood
+Spoonerism: dacific pogwood
+
+Plant Name: pale corydalis
+Spoonerism: cale porydalis
+
+Plant Name: paper birch
+Spoonerism: baper pirch
+
+Plant Name: pennsylvania blackberry
+Spoonerism: blennsylvania packberry
+
+Plant Name: penny hedge
+Spoonerism: henny pedge
+
+Plant Name: pepper root
+Spoonerism: repper poot
+
+Plant Name: perennial thistle
+Spoonerism: therennial pistle
+
+Plant Name: petty morel
+Spoonerism: metty porel
+
+Plant Name: pigeon berry
+Spoonerism: bigeon perry
+
+Plant Name: pink corydalis
+Spoonerism: cink porydalis
+
+Plant Name: pleurisy root
+Spoonerism: reurisy ploot
+
+Plant Name: pocan bush
+Spoonerism: bocan push
+
+Plant Name: poison berry
+Spoonerism: boison perry
+
+Plant Name: poison flower
+Spoonerism: floison power
+
+Plant Name: polecat weed
+Spoonerism: wolecat peed
+
+Plant Name: poorland daisy
+Spoonerism: doorland paisy
+
+Plant Name: prairie rose
+Spoonerism: rairie prose
+
+Plant Name: prickly thistle
+Spoonerism: thickly pristle
+
+Plant Name: purple raspberry
+Spoonerism: rurple paspberry
+
+Plant Name: radical weed
+Spoonerism: wadical reed
+
+Plant Name: red birch
+Spoonerism: bed rirch
+
+Plant Name: red deadnettle
+Spoonerism: ded readnettle
+
+Plant Name: red mulberry
+Spoonerism: med rulberry
+
+Plant Name: red willow
+Spoonerism: wed rillow
+
+Plant Name: red brush
+Spoonerism: bred rush
+
+Plant Name: red weed
+Spoonerism: wed reed
+
+Plant Name: redwood sorrel
+Spoonerism: sedwood rorrel
+
+Plant Name: river birch
+Spoonerism: biver rirch
+
+Plant Name: river maple
+Spoonerism: miver raple
+
+Plant Name: road weed
+Spoonerism: woad reed
+
+Plant Name: rock harlequin
+Spoonerism: hock rarlequin
+
+Plant Name: rocket cress
+Spoonerism: crocket ress
+
+Plant Name: roman wormwood
+Spoonerism: woman rormwood
+
+Plant Name: rose milkweed
+Spoonerism: mose rilkweed
+
+Plant Name: rose willow
+Spoonerism: wose rillow
+
+Plant Name: rum cherry
+Spoonerism: chum rerry
+
+Plant Name: saffron crocus
+Spoonerism: craffron socus
+
+Plant Name: sand brier
+Spoonerism: brand sier
+
+Plant Name: scarlet berry
+Spoonerism: barlet scerry
+
+Plant Name: scotch cap
+Spoonerism: cotch scap
+
+Plant Name: scurvy cress
+Spoonerism: crurvy scess
+
+Plant Name: scurvy grass
+Spoonerism: grurvy scass
+
+Plant Name: shad blow
+Spoonerism: blad show
+
+Plant Name: silky cornel
+Spoonerism: cilky sornel
+
+Plant Name: silky dogwood
+Spoonerism: dilky sogwood
+
+Plant Name: silver birch
+Spoonerism: bilver sirch
+
+Plant Name: silver maple
+Spoonerism: milver saple
+
+Plant Name: silver ragwort
+Spoonerism: rilver sagwort
+
+Plant Name: skunk cabbage
+Spoonerism: cunk skabbage
+
+Plant Name: skunk weed
+Spoonerism: wunk skeed
+
+Plant Name: snake berry
+Spoonerism: bake snerry
+
+Plant Name: sneezewort yarrow
+Spoonerism: yeezewort snarrow
+
+Plant Name: soft maple
+Spoonerism: moft saple
+
+Plant Name: soldiers woundwort
+Spoonerism: woldiers soundwort
+
+Plant Name: spice birch
+Spoonerism: bice spirch
+
+Plant Name: spool wood
+Spoonerism: wool spood
+
+Plant Name: spotted deadnettle
+Spoonerism: dotted speadnettle
+
+Plant Name: spring cress
+Spoonerism: cring spress
+
+Plant Name: squaw bush
+Spoonerism: buaw sqush
+
+Plant Name: stag bush
+Spoonerism: bag stush
+
+Plant Name: strawberry tree
+Spoonerism: trawberry stree
+
+Plant Name: striped maple
+Spoonerism: miped straple
+
+Plant Name: sugar maple
+Spoonerism: mugar saple
+
+Plant Name: summer lilac
+Spoonerism: lummer silac
+
+Plant Name: sundari bangladesh
+Spoonerism: bundari sangladesh
+
+Plant Name: swallow wort
+Spoonerism: wallow swort
+
+Plant Name: swamp cabbage
+Spoonerism: camp swabbage
+
+Plant Name: swamp dewberry
+Spoonerism: damp swewberry
+
+Plant Name: swamp dogwood
+Spoonerism: damp swogwood
+
+Plant Name: swamp hellebore
+Spoonerism: hamp swellebore
+
+Plant Name: swamp holly
+Spoonerism: hamp swolly
+
+Plant Name: swamp maple
+Spoonerism: mamp swaple
+
+Plant Name: swamp milkweed
+Spoonerism: mamp swilkweed
+
+Plant Name: sweet birch
+Spoonerism: beet swirch
+
+Plant Name: sweet potato
+Spoonerism: peet swotato
+
+Plant Name: sweet rocket
+Spoonerism: reet swocket
+
+Plant Name: swine thistle
+Spoonerism: thine swistle
+
+Plant Name: sword ferns
+Spoonerism: ford swerns
+
+Plant Name: sycamore california
+Spoonerism: camore sycalifornia
+
+Plant Name: tall coneflower
+Spoonerism: call toneflower
+
+Plant Name: tassel weed
+Spoonerism: wassel teed
+
+Plant Name: thousand leaf
+Spoonerism: lousand theaf
+
+Plant Name: thousand seal
+Spoonerism: sousand theal
+
+Plant Name: tickle weed
+Spoonerism: wickle teed
+
+Plant Name: tobacco plant
+Spoonerism: plobacco tant
+
+Plant Name: trailing bittersweet
+Spoonerism: bailing trittersweet
+
+Plant Name: trailing nightshade
+Spoonerism: nailing trightshade
+
+Plant Name: travellers joy
+Spoonerism: javellers troy
+
+Plant Name: tread softly
+Spoonerism: sead troftly
+
+Plant Name: true cinnamon
+Spoonerism: cue trinnamon
+
+Plant Name: tuber root
+Spoonerism: ruber toot
+
+Plant Name: viola species
+Spoonerism: spiola vecies
+
+Plant Name: violet bloom
+Spoonerism: bliolet voom
+
+Plant Name: virginia winterberry
+Spoonerism: wirginia vinterberry
+
+Plant Name: virgins bower
+Spoonerism: birgins vower
+
+Plant Name: wall speedwell
+Spoonerism: spall weedwell
+
+Plant Name: water birch
+Spoonerism: bater wirch
+
+Plant Name: water fern
+Spoonerism: fater wern
+
+Plant Name: water maple
+Spoonerism: mater waple
+
+Plant Name: way thistle
+Spoonerism: thay wistle
+
+Plant Name: way bread
+Spoonerism: bray wead
+
+Plant Name: wayside plantain
+Spoonerism: playside wantain
+
+Plant Name: weeping birch
+Spoonerism: beeping wirch
+
+Plant Name: western redbud
+Spoonerism: restern wedbud
+
+Plant Name: western trillium
+Spoonerism: trestern willium
+
+Plant Name: whiskey cherry
+Spoonerism: chiskey wherry
+
+Plant Name: white birch
+Spoonerism: bite whirch
+
+Plant Name: white cornel
+Spoonerism: cite whornel
+
+Plant Name: white hellebore
+Spoonerism: hite whellebore
+
+Plant Name: white maple
+Spoonerism: mite whaple
+
+Plant Name: white mulberry
+Spoonerism: mite whulberry
+
+Plant Name: white root
+Spoonerism: rite whoot
+
+Plant Name: white tansy
+Spoonerism: tite whansy
+
+Plant Name: white trillium
+Spoonerism: trite whillium
+
+Plant Name: whorled milkweed
+Spoonerism: morled whilkweed
+
+Plant Name: wild carrot
+Spoonerism: cild warrot
+
+Plant Name: wild cherry
+Spoonerism: child werry
+
+Plant Name: wild cotton
+Spoonerism: cild wotton
+
+Plant Name: wild garlic
+Spoonerism: gild warlic
+
+Plant Name: wild hops
+Spoonerism: hild wops
+
+Plant Name: wild pellitory
+Spoonerism: pild wellitory
+
+Plant Name: wild rose
+Spoonerism: rild wose
+
+Plant Name: wild tansy
+Spoonerism: tild wansy
+
+Plant Name: wind root
+Spoonerism: rind woot
+
+Plant Name: winter rocket
+Spoonerism: rinter wocket
+
+Plant Name: winterberry holly
+Spoonerism: hinterberry wolly
+
+Plant Name: winter cress
+Spoonerism: crinter wess
+
+Plant Name: woody nightshade
+Spoonerism: noody wightshade
+
+Plant Name: woolly yarrow
+Spoonerism: yoolly warrow
+
+Plant Name: wound rocket
+Spoonerism: round wocket
+
+Plant Name: yellow birch
+Spoonerism: bellow yirch
+
+Plant Name: yellow coneflower
+Spoonerism: cellow yoneflower
+
+Plant Name: yellow corydalis
+Spoonerism: cellow yorydalis
+
+Plant Name: yellow daisy
+Spoonerism: dellow yaisy
+
+Plant Name: yellow harlequin
+Spoonerism: hellow yarlequin
+
+Plant Name: yellow milkweed
+Spoonerism: mellow yilkweed
+
+Plant Name: yellow rocket
+Spoonerism: rellow yocket
+
+Plant Name: yellow wood
+Spoonerism: wellow yood
+
